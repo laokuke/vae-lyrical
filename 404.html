@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>正在跳转…</title>
+<style>body{font-family:-apple-system,'PingFang SC','Segoe UI',Arial,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#F4F3EE;color:#1A1B1C}</style>
+</head>
+<body>
+<div style="text-align:center;padding:24px;">
+  <div style="font-size:16px;font-weight:600;">嵩词百科</div>
+  <div style="font-size:13px;color:#6B7280;margin-top:8px;">正在加载，请稍候…</div>
+</div>
+<script>
+// GitHub Pages / 静态托管 SPA 兜底：
+// 任意子路径（如 /allusion）刷新 404 时，GitHub Pages 会返回本文件，
+// 脚本把路径转为 hash 形式（如 index.html#allusion），跳回应用首页并由 hash 驱动恢复对应分类。
+(function () {
+  try {
+    var path = window.location.pathname;
+    var segs = path.split('/').filter(function (s) { return s; });
+    var last = segs.length ? decodeURIComponent(segs[segs.length - 1]) : '';
+    if (last === 'index.html' || last === '404.html') { last = ''; }
+    var dir = path.slice(0, path.lastIndexOf('/') + 1);
+    var target = window.location.origin + dir + 'index.html' + (last ? '#' + last : '');
+    window.location.replace(target);
+  } catch (e) {
+    window.location.replace('index.html');
+  }
+})();
+</script>
+</body>
+</html>
