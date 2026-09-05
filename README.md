@@ -11,7 +11,6 @@
 
 - 纯静态文件，无后端依赖，数据全部内置在 `assets/index-*.js` 中
 - 内容由 hash 路由驱动（如 `/#allusion`），外壳带 React Router history 路由
-- 部署到 GitHub Pages 等静态托管时，**必须附带 `404.html`**，用于子路径刷新兜底（把 `/allusion` 自动转成 `index.html#allusion` 跳回首页）
 
 ## 文件结构
 
