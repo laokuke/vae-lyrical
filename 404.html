@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>嵩词百科｜许嵩歌词意象资料库</title>
+    <script>
+      // GitHub Pages SPA 回退脚本（HashRouter 专用）
+      // 当 GitHub Pages 找不到路径对应文件时返回此 404.html
+      // 将当前路径重定向到站点根目录下的 hash 路由首页
+      (function () {
+        var l = window.location;
+        // 提取站点根路径（去除文件名，保留目录）
+        var pathParts = l.pathname.split('/');
+        pathParts.pop(); // 去掉最后一段（文件名或空）
+        var basePath = pathParts.join('/') + '/';
+        // 保留原始 path+search 到 hash 中，便于应用读取
+        var original = l.pathname + l.search;
+        l.replace(basePath + '#/?redirect=' + encodeURIComponent(original));
+      })();
+    </script>
+  </head>
+  <body>
+    <p style="text-align:center;color:#666;margin-top:40px;">正在加载...</p>
+  </body>
+</html>
