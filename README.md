@@ -2,7 +2,7 @@
 
 > Vae 歌词创作研究图鉴 —— 一个静态网页应用，整理许嵩歌词中的意象、用典、自创词、谐音空耳、术语、时间、颜色、人物动物、季节节气、地名等分类。
 
-**👉 [点击访问嵩词百科](https://laokuke.github.io/vae-lyrical/)**
+**👉 [点击访问 嵩词百科](https://laokuke.github.io/vae-lyrical/)**
 
 ## 功能特性
 
