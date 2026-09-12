@@ -85,11 +85,6 @@ npm run build
 
 - **不蒜子统计**（busuanzi）：Footer 中注入 `busuanzi.pure.mini.js`，展示总访问量（PV）和访客数（UV）
 
-## 版本信息
-
-- 页面版本：2026.09.06-rev70
-- 数据版本：2026.08.24-rev51
-
 ## 署名
 
 整理：B站UP主 [@我贼6贼6贼6](https://space.bilibili.com/12550061)
