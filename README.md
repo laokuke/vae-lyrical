@@ -97,3 +97,7 @@ npm run build
 - 歌词及相关作品的著作权归许嵩本人及相应版权方（如海蝶音乐/太合音乐等）所有
 - 本项目不提供歌词下载、不用于任何盈利目的
 - 如版权方认为本项目侵犯权益，请联系仓库所有者，将第一时间处理
+
+## 我的其它项目
+[山水之间导航站-嵩鼠入坑指南]([url](https://github.com/laokuke/songshu-nav))
+[许嵩都写过唱过哪些歌？]([url](https://github.com/laokuke/Vae-Song-Titles))
