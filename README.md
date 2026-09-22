@@ -99,5 +99,6 @@ npm run build
 - 如版权方认为本项目侵犯权益，请联系仓库所有者，将第一时间处理
 
 ## 我的其它项目
-[山水之间导航站-嵩鼠入坑指南]([url](https://github.com/laokuke/songshu-nav))
-[许嵩都写过唱过哪些歌？]([url](https://github.com/laokuke/Vae-Song-Titles))
+[山水之间导航站-嵩鼠入坑指南](https://github.com/laokuke/songshu-nav)
+
+[许嵩都写过唱过哪些歌？](https://github.com/laokuke/Vae-Song-Titles)
