@@ -1,15 +1,5 @@
 # 嵩词百科-许嵩(Vae)歌词意象资料库
 
-<div align="center">
-<a href="https://laokuke.github.io/vae-lyrical/" target="_blank">
-<img alt="logo: GitHub" src="https://img.shields.io/badge/-嵩词百科-blue?logo=github">
-</a>
-<a href="https://4kjfycdzbn4fx.aiforce.cloud/app/app_17dcf6aj7pu/" target="_blank">
-<img alt="logo: GitHub" src="https://img.shields.io/badge/-山水之间导航站-blue?logo=github">
-</a>
-</div>
-
-
 > 一个静态网页应用，整理许嵩歌词中的意象、用典、自创词、谐音空耳、术语、时间、颜色、人物动物、季节节气、地名等分类。
 
 **👉 [点击访问 嵩词百科](https://laokuke.github.io/vae-lyrical/)**
