@@ -106,4 +106,3 @@ npm run build
 
 [许嵩都写过唱过哪些歌？](https://github.com/laokuke/Vae-Song-Titles)-能看到许嵩创作的几乎所有歌曲名
 
-<a href="https://similarlabs.com" target="_blank" rel="noopener"><img src="https://similarlabs.com/similarlabs-embed-badge-light.svg" alt="Featured on SimilarLabs" /></a>
