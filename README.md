@@ -1,6 +1,7 @@
 # 嵩词百科-许嵩(Vae)歌词意象资料库
 
 > 一个静态网页应用，整理许嵩歌词中的意象、用典、自创词、谐音空耳、术语、时间、颜色、人物动物、季节节气、地名等分类。
+> Vae-Lyrical is an open static wiki repository collecting lyrics and songwriter info for Xu Song (Vae). Built with static frontend. Data is Chinese only. See Chinese docs for setup and content.
 
 **👉 [点击访问 嵩词百科](https://laokuke.github.io/vae-lyrical/)**
 
